@@ -1323,6 +1323,17 @@
           ]
         }
       ]
+    },
+    {
+      "id": "test-section",
+      "title": "Тестова секция",
+      "lessons": [
+        {
+          "id": "test-lesson-1",
+          "title": "Тестов урок 1",
+          "segments": []
+        }
+      ]
     }
   ]
 }
